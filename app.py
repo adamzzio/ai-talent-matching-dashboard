@@ -969,7 +969,7 @@ st.caption(f"Chosen: {len(selected_emp)} employee")
 # ==========================
 # ================== BACKEND CALL : AI GENERATION & TV-TGV MATCH RATE ==================
 # ==========================
-if st.button("Generate Job Description", type="primary", key="jd_btn"):
+if st.button("Generate Job Description & TV-TGV Match Rate", type="primary", key="jd_btn"):
     # ---- VALIDATION: all required ----
     errors = []
     if role_name == SENTINEL: errors.append("Role Name must be selected.")
