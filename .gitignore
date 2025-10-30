@@ -1,0 +1,12 @@
+# Folders
+__pycache__/
+.streamlit/
+csv_out/
+
+# Files
+backup.py
+Export_Output_Step2.xlsx
+Study Case DA.xlsx
+
+# ENV
+.env
