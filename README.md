@@ -51,7 +51,7 @@ Your final step is to turn the SQL results into actionable insight through a **p
 * pandas / numpy
 * psycopg2, supabase-py
 * ReportLab (PDF)
-* (Optional) OpenAI / Groq SDKs for AI-powered features
+* Groq SDKs for AI-powered features
 
 ---
 
