@@ -11,7 +11,7 @@ An AI-powered analytics application that transforms SQL-based talent data into a
 
 Your final step is to turn the SQL results into actionable insight through a **parameterized, AI-powered interface and visual dashboard**. This app dynamically handles any new job input at runtime — not a static or pre-baked dashboard.
 
-**Live App Deployment Link** : [AI Talent App & Dashboard](https://docs.streamlit.io/)
+**Live App Deployment Link** : [AI Talent App & Dashboard](https://ai-talent-matching-dashboard.streamlit.app/)
 
 ### 🎯 Core Functions
 

@@ -10,3 +10,6 @@ Study Case DA.xlsx
 
 # ENV
 .env
+
+# gitignore
+.gitignore
