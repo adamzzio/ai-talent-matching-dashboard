@@ -128,7 +128,6 @@ MODEL="MODEL_NAME"
 ```bash
 # 1) Clone repository
 $ git clone https://github.com/adamzzio/ai-talent-matching-dashboard.git
-$ cd ai-talent-matching-dashboard
 
 # 2) Open in VSCode
 # 3) Install dependencies
